@@ -1,0 +1,3 @@
+*.py[cod]
+/env312/
+db.sqlite3
